@@ -1,3 +1,16 @@
+---
+title: Foo
+order: 2
+nav:
+  title: 组件
+  order: 2
+  path: /components
+group:
+  title: components
+  order: 2
+  path: /components
+---
+
 # Foo
 
 This is an example component.
