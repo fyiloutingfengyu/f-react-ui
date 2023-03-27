@@ -22,3 +22,7 @@ import { Button } from 'f-react-ui';
 
 export default () => <Button text="按钮" />;
 ```
+
+## 基本用法
+
+<code src="./demos/index.tsx"></code>
